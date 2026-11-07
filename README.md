@@ -145,7 +145,3 @@ positive = exact count, negative = minimum.
 - [ ] Append-only-file persistence
 - [ ] RESP3 and `HELLO 3`
 - [ ] Benchmarks with `redis-benchmark`
-
-## License
-
-MIT — see [LICENSE](LICENSE).
